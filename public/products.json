@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Sony Alpha 7 IV",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "price": "30000"
+  },
+  {
+    "id": "2",
+    "name": "Canon EOS Rebel T8i",
+    "image": "https://images.unsplash.com/photo-1625571281240-694bfa82e4c9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+    "price": "40000"
+  },
+  {
+    "id": "3",
+    "name": "Nikon D810",
+    "image": "https://images.unsplash.com/photo-1614108830714-74f0e4c8cd7e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "price": "50000"
+  },
+  {
+    "id": "4",
+    "name": "EOS-1D X Mark III",
+    "image": "https://images.unsplash.com/photo-1520390138845-fd2d229dd553?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "price": "60000"
+  },
+  {
+    "id": "5",
+    "name": "PowerShot G7X Mark II",
+    "image": "https://images.unsplash.com/photo-1486492440844-ebc195542a40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "price": "100000"
+  },
+  {
+    "id": "6",
+    "name": "Sony Alpha 1 Superb",
+    "image": "https://images.unsplash.com/photo-1548084589-f918d6f77af9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "price": "70000"
+  },
+  {
+    "id": "7",
+    "name": "Sony 7C Compact",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+    "price": "45000"
+  },
+  {
+    "id": "8",
+    "name": "Canon EOS 90D",
+    "image": "https://images.unsplash.com/photo-1591533385361-f327d396db9d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1025&q=80",
+    "price": "35000"
+  },
+  {
+    "id": "9",
+    "name": "EOS 5D Mark IV",
+    "image": "https://images.unsplash.com/photo-1506770797561-3b22048d1a13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1103&q=80",
+    "price": "53000"
+  },
+  {
+    "id": "10",
+    "name": "Sony Alpha 7S III",
+    "image": "https://images.unsplash.com/photo-1597662469987-1e432cb7215e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1019&q=80",
+    "price": "63000"
+  },
+  {
+    "id": "11",
+    "name": "Nikon D7500",
+    "image": "https://images.unsplash.com/photo-1579260729526-ca1e77ad9092?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "price": "90000"
+  },
+  {
+    "id": "12",
+    "name": "Canon PowerShot SX740 HS",
+    "image": "https://images.unsplash.com/photo-1519458246479-6acae7536988?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "price": "130000"
+  }
+]
